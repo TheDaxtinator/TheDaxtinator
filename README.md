@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @TheDaxtinator
 - 👀 I’m interested in alot of stuff
-- 🌱 I’m currently learning python3
-- 💞️ I’m looking to collaborate on, still looking around
-- 📫 How to reach me: you don't need to yet :D
+- 🌱 I’m currently learning python, HTML, CSS, JavaScript
+- 💞️ I’m looking to collaborate on, Bongsessions
+- 📫 How to reach me: Don't ;D
 
 <!---
 TheDaxtinator/TheDaxtinator is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
